@@ -9,4 +9,3 @@ Entwicklungsplattform: Windows 10
 Lessons Learned
 * Anlegen GitRepo mit gitignore und readme
 * Basic Workflow git <-> Github
-* Punkt 3
