@@ -14,6 +14,6 @@ Lessons Learned
 * Basic Workflow git <-> Github
 
 
-     Ganz egal
+     nicht so egal
 
   
